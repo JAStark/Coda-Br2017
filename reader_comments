@@ -1,0 +1,102 @@
+**Destinations, Transient Population**
+
+gfriday
+3/18/2016 2:26 AM GMT+0900
+This article is missing something obvious. Let's start with some assumptions:
+1. A majority of destinations (jobs, events, restaurants) are in the center of the map.
+2. The Uber app tries to match up a driver with a new passenger by proximity as soon as the previous trip ends.
+If true, it doesn't matter where a driver serves his/her first passenger, the second pick-up and those after it will be (on average) close to a destination point. The more clustered the destinations, the more available drivers who have just dropped someone off.
+I have made good money driving on the east side of the city, but it's difficult to get deep in the neighborhoods multiple times in a shift without getting a request from someone closer to the core first.
+
+
+DWPittelli
+3/13/2016 12:31 PM GMT+0900
+No, the data doesn't tell us that the difference is due to racial bias. It only tells us that black areas have slightly longer wait times, even when trying to also include as co-factors income and population density. The scatter graphs in this article showed rather weak correlations, there are subjective factors involved in performing such multiple regressions, and the causative factor is at least as likely to be customer demand, likely due to nonresidential attractions and core vs. periphery location.
+
+
+Tristain Gomez
+3/11/2016 6:57 AM GMT+0900
+All this shows is that Uber density is more downtown, in the middle of DC, where many of the tourist sites and office spaces are. Perhaps there are more white tourists visiting DC?
+
+
+**Crime, Safety, Risk**
+
+Carmont3006
+3/15/2016 6:34 PM GMT+0900
+If the author overlaid the map with a different metric, for instance crime rates and/or types of crime, the driver pick-up discrimination may not solely be about race. The drivers may be discriminating for their own safety.
+The author should have picked up on that common theme when reading Uber and Lyft driver forums. This is a very weak and biased article that leads me to believe that the author is weak and biased.
+
+
+American Vitriolic
+3/14/2016 8:27 AM GMT+0900
+It means they don't want to get robbed or shot! What's wrong with that?! That's not racism; that's self-preservation.
+
+If instinct tells you to cross the street, cross the damn street. Worry about feelings later when you're home safe reading The Washington Post.
+
+
+
+4avocats
+3/11/2016 12:18 PM GMT+0900
+Oh for pete's sake--don't you think this might also be driven by the drivers' opinions on $$ and safety?
+
+
+
+**Demand**
+
+calvmus2
+3/14/2016 12:17 PM GMT+0900
+This article is the result of very interpretation of sloppy research. Underserved neighborhoods are the result of lower demand for service, plan and simple. I have seen, first hand as an Uber driver, the wealthy neighborhoods north of San Diego (La Jolla, Del Mar, Encinitas, etc.) not having enough cars to service them, with very long wait times. If the writer of the article just took the time to re-read what was written, it would be obvious (hopefully) that they are coming to conclusions that make no sense. However, if the researcher wanted to get data from Uber (probably isn't going to happen) of how many ride requests are denied because of the location of the request, then there might be some statistical data to share that could point towards discrimination, otherwise the observations are preposterous.
+
+
+VA citizen
+3/11/2016 5:32 AM GMT+0900
+its interesting but why would you choose to look at uber data through a race prism? There are so many factors you've omitted. For example, aggregrate demand. You can't expect short wait times in areas that simply do not generate a lot of rides, whether they are black or white. Second, lots of drivers are african american perhaps even a majority. Finally, I am sure uber drivers are motivated financially and not racially. They go where the money is, just like taxi drivers. If there are going to be rides downtown that's where they go. Surely you aren't advocating that uber drivers hang out in low-demand areas of the city, just so the occasional rider has a short wait time?
+
+
+**Unbanked population**
+
+RFrank6
+3/11/2016 11:43 AM GMT+0900
+Since you pay for Uber using a credit card, are people in some parts of town less likely to have access to a credit card, hence there are fewer requests for Uber in those parts of town?
+
+
+**Taxi Comparisons**
+
+
+ctrabs0114
+3/12/2016 3:09 AM GMT+0900
+This study would have more credibility if they had examined DC taxi services and comparing them to Uber/Lyft before publishing this article. Just saying...
+
+
+**Spatial Regression**
+
+Lee Herron
+3/11/2016 4:23 PM GMT+0900
+Disappointed with the methodology.
+
+While you've controlled for important factors like income, poverty and population density, you don't control for Uber activity in the surrounding vicinity of each tract. Because ubers can't teleport, geography is a major factor.  
+
+As a thought experiment, put two literally identical tracts on opposite sides of town. Now surround one tract with poor households and low-activity uber zones, and one with affluent, high-activity Uber zones. What you have are two identical zones per the attributes examined in this study, yet by virtue of their surrounding geography have drastically different Uber service.  
+
+I'm not saying there isn't a real racial bias at play here (and if I had to guess I'd say there is one, to some degree), but unfortunately there's nothing compelling presented here that indicates any causality.
+
+
+**Study relevance - important to determine kind of conclusions you can / want to make**
+
+Tom Carter
+3/11/2016 11:11 PM GMT+0900
+If you did this in more than one city, there might be some statistical merit. Like one where the core/center is the heavily minority area and the outskirts are whiter (like most other cities). Then you'd have some comparable data. Looking at one unique Capital City and making this assertion is reckless.
+
+
+**Responsibility of the government or city council, Uber, if any**
+
+scrabbler
+3/11/2016 4:51 PM GMT+0900
+Easy and obvious answer. The government must start conscripting Über drivers and forcing them to service these customers. That is all.
+
+
+justaguy22
+3/11/2016 5:05 AM GMT+0900 [Edited]
+You analyzed wait times. What about price? Are prices for rides in black areas lower since these areas surge less often?
+
+Would increased surge pricing in majority black areas help or hurt the people who live there?
