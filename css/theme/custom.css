@@ -307,9 +307,11 @@ background-color: #a3c2c4; /*#f7f3de;*/ }
 /******************************************************************************/
 .reveal h1.titlepage {
   /*color: #48666a;*/
-  color: rgba(160, 227, 236, 0.4);
+  /*color: rgba(160, 227, 236, 0.4);*/
+  color: rgba(160, 227, 236, 1);
   /*font-variant-caps: small-caps;*/
   font-variant-caps: small-caps;
+  line-height: 95%;
   letter-spacing: 1rem;
 }
 
@@ -321,7 +323,9 @@ background-color: #a3c2c4; /*#f7f3de;*/ }
   letter-spacing: 1rem;
 }
 .reveal h3.titlepage {
-  color: rgba(255, 150, 141, 0.3);
+  /*color: rgba(255, 150, 141, 0.3);*/
+  color: rgba(255, 150, 141, 1);
+  line-height: 85%;
   font-family: quicksand;
   text-transform:none;
 }
